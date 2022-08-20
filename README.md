@@ -1,9 +1,3 @@
-# AnnoyMeNot
-An annoyance filter for uBlock Origin.
-
-[View AnnoyMeNot](https://raw.githubusercontent.com/NaeemBolchhi/AnnoyMeNot/main/annoymenot.txt) or [add it to your ad blocker](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/NaeemBolchhi/AnnoyMeNot/main/annoymenot.txt&title=AnnoyMeNot).
-
-
 # AnnoyMeNot: An Annoyance Filter for uBlock Origin
 
 AnnoyMeNot is a custom filter for uBlock Origin that, once subcribed to, will cosmetically remove annoyances around the web. This is a personal project meant to improve my experience on the websites I frequent.

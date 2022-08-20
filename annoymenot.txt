@@ -1,0 +1,25 @@
+! Version: 202208201208
+! Title: AnnoyMeNot
+! Description: An Annoyance Filter for uBlock Origin.
+! Expires: 4 days (update frequency)
+! Last modified: 20 Aug 2022 12:08 UTC
+! Licence: https://www.gnu.org/licenses/gpl-3.0-standalone.html
+! Homepage: https://naeembolchhi.github.io/AnnoyMeNot/
+! !
+! GitHub issues: https://github.com/NaeemBolchhi/AnnoyMeNot/issues
+! GitHub pull requests: https://github.com/NaeemBolchhi/AnnoyMeNot/pulls
+
+! 2022-08-11 https://www.newscon.net
+www.newscon.net##.u-xs-margin0.u-xs-width95Pct.u-xs-transformXYNegative50pct.u-xs-left50pct.u-xs-top50pct.u-xs-absolute.u-xs-sizeFullWidth.u-sm-backgroundImageNone.u-sm-heightAuto.u-sm-width600.u-margin5.u-relative.u-overflowHidden.u-xs-padding40.u-padding50.u-boxShadow2px10pxBlackLighter.u-borderRadius4.u-borderBox.u-width900.u-height550.u-flexColumn.u-backgroundNoRepeat.u-backgroundColorWhite.uiScale-caption--regular.uiScale-ui--regular.uiScale
+www.newscon.net##.adblock-warning.overlay--light.overlay
+
+! 2022-08-15 https://1fichier.com
+1fichier.com##.ui-front
+
+! 2022-08-19 https://www.royalroad.com
+www.royalroad.com##.container-fluid > .py-1.gutter-b.text-center.card-custom.card
+www.royalroad.com##.col-sm-12 > .py-1.text-center.gutter-b.card-custom.card
+www.royalroad.com##div.col-sm-6 > .text-center.light.portlet
+www.royalroad.com###slick-slide10 > div > .col-md-4 > .text-center.light.portlet
+www.royalroad.com##.col-xs-12 > .text-center.light.portlet
+www.royalroad.com##[href="/premium"]

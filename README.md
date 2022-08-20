@@ -19,8 +19,8 @@ As this filter is for uBlock Origin, you need to first install uBlock Origin in 
 [![](https://img.shields.io/badge/Opera-%23f7182a)](https://addons.opera.com/en/extensions/details/ublock/)
 
 #### (2) Add AnnoyMeNot from Github
-[![](https://img.shields.io/badge/View%20AnnoyMeNot-%23858585)](https://raw.githubusercontent.com/NaeemBolchhi/AnnoyMeNot/main/annoymenot.txt)
-[![](https://img.shields.io/badge/Add%20AnnoyMeNot-%231f6feb)](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/NaeemBolchhi/AnnoyMeNot/main/annoymenot.txt&title=AnnoyMeNot)
+[![](https://img.shields.io/badge/View%20AnnoyMeNot-%23858585)](https://naeembolchhi.github.io/AnnoyMeNot/annoymenot.txt)
+[![](https://img.shields.io/badge/Add%20AnnoyMeNot-%231f6feb)](https://subscribe.adblockplus.org/?location=https://naeembolchhi.github.io/AnnoyMeNot/annoymenot.txt&title=AnnoyMeNot)
 
 ## Disable or Remove
 

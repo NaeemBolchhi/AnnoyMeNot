@@ -1,8 +1,8 @@
-! Version: 202208201418
+! Version: 202208202045
 ! Title: AnnoyMeNot
 ! Description: An Annoyance Filter for uBlock Origin.
 ! Expires: 4 days (update frequency)
-! Last modified: 20 Aug 2022 14:18 UTC
+! Last modified: 20 Aug 2022 20:45 UTC
 ! Licence: https://www.gnu.org/licenses/gpl-3.0-standalone.html
 ! Homepage: https://naeembolchhi.github.io/AnnoyMeNot/
 ! !
@@ -26,3 +26,9 @@ www.royalroad.com##[href="/premium"]
 
 ! 2022-08-20 https://archive.org
 archive.org##.BRscreen
+
+! 2022-08-20 https://lrepacks.net
+lrepacks.net##iframe:nth-of-type(2)
+
+! 2022-08-20 https://mydramalist.com
+mydramalist.com###mdl-cookie-accept

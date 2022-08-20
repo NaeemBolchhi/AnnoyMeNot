@@ -1,2 +1,2 @@
 # AnnoyMeNot
-An anti-annoyance filter for uBlock Origin.
+An annoyance filter for uBlock Origin.

@@ -1,8 +1,8 @@
-! Version: 202208202045
+! Version: 202208221700
 ! Title: AnnoyMeNot
 ! Description: An Annoyance Filter for uBlock Origin.
 ! Expires: 4 days (update frequency)
-! Last modified: 20 Aug 2022 20:45 UTC
+! Last modified: 22 Aug 2022 17:00 UTC
 ! Licence: https://www.gnu.org/licenses/gpl-3.0-standalone.html
 ! Homepage: https://naeembolchhi.github.io/AnnoyMeNot/
 ! !
@@ -12,9 +12,6 @@
 ! 2022-08-11 https://www.newscon.net
 www.newscon.net##.u-xs-margin0.u-xs-width95Pct.u-xs-transformXYNegative50pct.u-xs-left50pct.u-xs-top50pct.u-xs-absolute.u-xs-sizeFullWidth.u-sm-backgroundImageNone.u-sm-heightAuto.u-sm-width600.u-margin5.u-relative.u-overflowHidden.u-xs-padding40.u-padding50.u-boxShadow2px10pxBlackLighter.u-borderRadius4.u-borderBox.u-width900.u-height550.u-flexColumn.u-backgroundNoRepeat.u-backgroundColorWhite.uiScale-caption--regular.uiScale-ui--regular.uiScale
 www.newscon.net##.adblock-warning.overlay--light.overlay
-
-! 2022-08-15 https://1fichier.com
-1fichier.com##.ui-front
 
 ! 2022-08-19 https://www.royalroad.com
 www.royalroad.com##.container-fluid > .py-1.gutter-b.text-center.card-custom.card
@@ -32,3 +29,9 @@ lrepacks.net##iframe:nth-of-type(2)
 
 ! 2022-08-20 https://mydramalist.com
 mydramalist.com###mdl-cookie-accept
+
+! 2022-08-22 https://1fichier.com
+1fichier.com##.ui-front
+1fichier.com###cookie_box
+1fichier.com###header > .ct_warn
+1fichier.com##.alc > .ct_warn

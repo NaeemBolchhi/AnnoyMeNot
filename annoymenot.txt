@@ -1,8 +1,8 @@
-! Version: 20230201011401
+! Version: 20230224040814
 ! Title: AnnoyMeNot
 ! Description: An Annoyance Filter for uBlock Origin.
 ! Expires: 4 days (update frequency)
-! Last modified: 01 Mar 2023 01:14AM UTC+6
+! Last modified: 24 Mar 2023 04:08AM UTC+6
 ! Licence: https://www.gnu.org/licenses/gpl-3.0-standalone.html
 ! Homepage: https://naeembolchhi.github.io/AnnoyMeNot/
 ! !
@@ -51,3 +51,6 @@ bdebooks.com##body:style(height: auto !important;overflow: auto !important)
 
 ! 2023-02-28 https://filecr.com
 filecr.com###site-alert
+
+! 2023-03-23 https://www.lightnovelworld.com
+www.lightnovelworld.com###chapter-container>div

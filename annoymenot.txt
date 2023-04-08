@@ -1,8 +1,8 @@
-! Version: 20230307220057
+! Version: 20230308212224
 ! Title: AnnoyMeNot
 ! Description: An Annoyance Filter for uBlock Origin.
 ! Expires: 4 days (update frequency)
-! Last modified: 07 Apr 2023 10:01PM UTC+6
+! Last modified: 08 Apr 2023 09:22PM UTC+6
 ! Licence: https://www.gnu.org/licenses/gpl-3.0-standalone.html
 ! Homepage: https://naeembolchhi.github.io/AnnoyMeNot/
 ! !
@@ -63,3 +63,6 @@ www.teamviewer.com###onetrust-consent-sdk
 
 ! 2023-04-07 https://nilesoft.org
 nilesoft.org###cookieConsent
+
+! 2023-04-08 https://www.bignox.com
+www.bignox.com##.download-tip-section

@@ -1,8 +1,8 @@
-! Version: 20230308212224
+! Version: 20230313224225
 ! Title: AnnoyMeNot
 ! Description: An Annoyance Filter for uBlock Origin.
 ! Expires: 4 days (update frequency)
-! Last modified: 08 Apr 2023 09:22PM UTC+6
+! Last modified: 13 Apr 2023 10:42PM UTC+6
 ! Licence: https://www.gnu.org/licenses/gpl-3.0-standalone.html
 ! Homepage: https://naeembolchhi.github.io/AnnoyMeNot/
 ! !
@@ -27,18 +27,6 @@ mydramalist.com###mdl-cookie-accept
 1fichier.com###cookie_box
 1fichier.com###header > .ct_warn
 1fichier.com##.alc > .ct_warn
-
-! 2022-08-28 https://www.royalroad.com
-www.royalroad.com##.container-fluid > .py-1.gutter-b.text-center.card-custom.card
-www.royalroad.com##.col-sm-12 > .py-1.text-center.gutter-b.card-custom.card
-www.royalroad.com##div.col-sm-6 > .text-center.light.portlet
-www.royalroad.com###slick-slide10 > div > .col-md-4 > .text-center.light.portlet
-www.royalroad.com##.col-xs-12 > .text-center.light.portlet
-www.royalroad.com##[href="/premium"]
-www.royalroad.com##.text-center.light.portlet
-www.royalroad.com##.chapter-page.container > div > .wide
-www.royalroad.com##.portlet-body > .text-center.wide
-www.royalroad.com##.text-center.uppercase.bold
 
 ! 2022-09-01 https://monkeytype.com
 monkeytype.com###ad-result
@@ -66,3 +54,7 @@ nilesoft.org###cookieConsent
 
 ! 2023-04-08 https://www.bignox.com
 www.bignox.com##.download-tip-section
+
+! 2022-04-13 https://www.royalroad.com
+www.royalroad.com##[href="/premium"]:style(border: 1px solid red)
+www.royalroad.com##div.portlet:has(a[href='/premium/subscription'])

@@ -1,66 +1,71 @@
-! Version: 20230509124742
+! Version: 20240517183423
 ! Title: AnnoyMeNot
 ! Description: An Annoyance Filter for uBlock Origin.
 ! Expires: 4 days (update frequency)
-! Last modified: 09 Jun 2023 12:47AM UTC+6
+! Last modified: 17 Jun 2024 06:34PM UTC+6
 ! Licence: https://www.gnu.org/licenses/gpl-3.0-standalone.html
 ! Homepage: https://naeembolchhi.github.io/AnnoyMeNot/
 ! !
 ! GitHub issues: https://github.com/NaeemBolchhi/AnnoyMeNot/issues
 ! GitHub pull requests: https://github.com/NaeemBolchhi/AnnoyMeNot/pulls
 
-! 2022-08-11 https://www.newscon.net
+! Aug 11, 2022 https://www.newscon.net
 www.newscon.net##.u-xs-margin0.u-xs-width95Pct.u-xs-transformXYNegative50pct.u-xs-left50pct.u-xs-top50pct.u-xs-absolute.u-xs-sizeFullWidth.u-sm-backgroundImageNone.u-sm-heightAuto.u-sm-width600.u-margin5.u-relative.u-overflowHidden.u-xs-padding40.u-padding50.u-boxShadow2px10pxBlackLighter.u-borderRadius4.u-borderBox.u-width900.u-height550.u-flexColumn.u-backgroundNoRepeat.u-backgroundColorWhite.uiScale-caption--regular.uiScale-ui--regular.uiScale
 www.newscon.net##.adblock-warning.overlay--light.overlay
 
-! 2022-08-20 https://archive.org
+! Aug 20, 2022 https://archive.org
 archive.org##.BRscreen
 
-! 2022-08-20 https://lrepacks.net
+! Aug 20, 2022 https://lrepacks.net
 lrepacks.net##iframe:nth-of-type(2)
 
-! 2022-08-20 https://mydramalist.com
+! Aug 20, 2022 https://mydramalist.com
 mydramalist.com###mdl-cookie-accept
 
-! 2022-08-22 https://1fichier.com
+! Aug 22, 2022 https://1fichier.com
 1fichier.com##.ui-front
 1fichier.com###cookie_box
 1fichier.com###header > .ct_warn
 1fichier.com##.alc > .ct_warn
 
-! 2022-09-01 https://monkeytype.com
+! Sep 01, 2022 https://monkeytype.com
 monkeytype.com###ad-result
 monkeytype.com##.ad-h.advertisement.ad
 
-! 2023-02-05 https://bdebooks.com
+! Feb 05, 2023 https://bdebooks.com
 bdebooks.com##.sweet-overlay
 bdebooks.com##.sweet-alert
 bdebooks.com##body:style(height: auto !important;overflow: auto !important)
 
-! 2023-02-28 https://filecr.com
+! Feb 28, 2023 https://filecr.com
 filecr.com###site-alert
 
-! 2023-03-23 https://www.lightnovelworld.com
+! Mar 23, 2023 https://www.lightnovelworld.com
 www.lightnovelworld.com###chapter-container>div
 
-! 2023-03-29 https://compress-or-die.com
+! Mar 29, 2023 https://compress-or-die.com
 compress-or-die.com###module_global-cookie-consent_1
 
-! 2023-04-04 https://www.teamviewer.com
+! Apr 04, 2023 https://www.teamviewer.com
 www.teamviewer.com###onetrust-consent-sdk
 
-! 2023-04-07 https://nilesoft.org
+! Apr 07, 2023 https://nilesoft.org
 nilesoft.org###cookieConsent
 
-! 2023-04-08 https://www.bignox.com
+! Apr 08, 2023 https://www.bignox.com
 www.bignox.com##.download-tip-section
 
-! 2022-04-13 https://www.royalroad.com
+! Apr 13, 2022 https://www.royalroad.com
 www.royalroad.com##[href="/premium"]
 www.royalroad.com##div.portlet:has(a[href='/premium/subscription'])
 
-! 2023-05-21 https://stackoverflow.com
+! May 21, 2023 https://stackoverflow.com
 stackoverflow.com##.js-consent-banner
 
-! 2023-06-09 https://www.themoviedb.org
+! Jun 09, 2023 https://www.themoviedb.org
 www.themoviedb.org###onetrust-consent-sdk
+
+! Jun 17, 2024 http://10.16.100.244
+10.16.100.244###disclaimer
+10.16.100.244##.modal-backdrop
+10.16.100.244##body:remove-class(modal-open)

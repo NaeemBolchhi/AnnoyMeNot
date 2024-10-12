@@ -1,8 +1,8 @@
-! Version: 20240517183423
+! Version: 20240912185021
 ! Title: AnnoyMeNot
 ! Description: An Annoyance Filter for uBlock Origin.
 ! Expires: 4 days (update frequency)
-! Last modified: 17 Jun 2024 06:34PM UTC+6
+! Last modified: 12 October 2024 06:50PM UTC+6
 ! Licence: https://www.gnu.org/licenses/gpl-3.0-standalone.html
 ! Homepage: https://naeembolchhi.github.io/AnnoyMeNot/
 ! !
@@ -69,3 +69,9 @@ www.themoviedb.org###onetrust-consent-sdk
 10.16.100.244###disclaimer
 10.16.100.244##.modal-backdrop
 10.16.100.244##body:remove-class(modal-open)
+
+! Jun 19, 2024 https://freedrivemovie.com
+||freedrivemovie.com/wp-content/plugins/swiftninjapro-inspect-element-console-blocker/assets/devtools-detect.js?ver=3.0$script,1p
+||freedrivemovie.com/wp-content/plugins/swiftninjapro-inspect-element-console-blocker/assets/block-console.js?ver=3.0$script,1p
+||freedrivemovie.com/wp-content/plugins/swiftninjapro-inspect-element-console-blocker/assets/block-keys.js?ver=3.0$script,1p
+||freedrivemovie.com/wp-content/plugins/swiftninjapro-inspect-element-console-blocker/assets/block-right-click.js?ver=3.0$script,1p
